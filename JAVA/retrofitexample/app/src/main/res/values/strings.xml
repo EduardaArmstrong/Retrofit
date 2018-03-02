@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">retrofit example</string>
+    <string name="item_name">Name</string>
+    <string name="item_description">Description</string>
+    <string name="text_id">ID :</string>
+    <string name="text_name">Name :</string>
+    <string name="full_name">Full Name :</string>
+    <string name="html_url">Html Url :</string>
+    <string name="details_description">Description :</string>
+    <string name="url_details">Url :</string>
+    <string name="language_details">Language :</string>
+    <string name="watchers_details">Watchers :</string>
+    <string name="score_details">Score :</string>
+</resources>
